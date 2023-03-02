@@ -14916,7 +14916,7 @@
         "dept": "NanoEngineering (NANO)",
         "deptAbbr": "NANO",
         "content": [
-            { "type": "h3", "content": "Lower Division", "desc": "" },
+            { "type": "h2", "content": "Lower Division", "desc": "" },
             {
                 "type": "course",
                 "title": "NANO 4. Experience\u00a0NanoEngineering\u00a0(1)",
@@ -14947,7 +14947,7 @@
                 "desc": "Lab-based course to introduce the chemical synthesis of nanomaterials. Hands-on training in chemical synthesis and basic characterization tools. Program or materials fees may apply. Prerequisites: NANO 4.",
                 "backlinks": ["NANO 20L"]
             },
-            { "type": "h3", "content": "Upper Division", "desc": "" },
+            { "type": "h2", "content": "Upper Division", "desc": "" },
             {
                 "type": "course",
                 "title": "NANO 100L. Physical Properties of Materials Lab (4)",
@@ -15158,7 +15158,7 @@
                 "desc": "Research project as equivalent to a \u201csenior thesis\u201d can be approved for two NanoEngineering elective courses (eight units total). This course is taken as an elective on a P/NP basis. It must be done in consecutive quarters and the student must find a faculty member who will oversee the research project. Eligible students must have completed at least ninety units and must have a UC San Diego cumulative GPA of 3.0 or better. Detailed policy and procedures may be obtained from the Student Affairs Office. Prerequisites: consent of instructor.",
                 "backlinks": ["NANO 199"]
             },
-            { "type": "h3", "content": "Graduate", "desc": "" },
+            { "type": "h2", "content": "Graduate", "desc": "" },
             {
                 "type": "course",
                 "title": "NANO 200. Graduate Seminar in Chemical Engineering (1)",
@@ -35007,7 +35007,7 @@
                 "type": "course",
                 "title": "PSYC 192. Senior Seminar in Psychology (1)",
                 "desc": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small setting to explore an intellectual topic in psychology (at the upper-division level). Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors. Prerequisites: department approval and consent of instructor.",
-                "backlinks": ["PSYCH 192"]
+                "backlinks": ["PSYC 192"]
             },
             {
                 "type": "course",
